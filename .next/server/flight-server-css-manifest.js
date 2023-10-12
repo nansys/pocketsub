@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST="{\n  \"cssImports\": {},\n  \"cssModules\": {}\n}"
+self.__RSC_CSS_MANIFEST="{\n  \"cssImports\": {\n    \"C:\\\\Users\\\\Nanosoft\\\\Desktop\\\\NextApp\\\\app\\\\layout.tsx\": [\n      \"C:\\\\Users\\\\Nanosoft\\\\Desktop\\\\NextApp\\\\app\\\\globals.css\"\n    ]\n  },\n  \"cssModules\": {\n    \"C:\\\\Users\\\\Nanosoft\\\\Desktop\\\\NextApp\\\\app\\\\page\": [\n      \"C:\\\\Users\\\\Nanosoft\\\\Desktop\\\\NextApp\\\\app\\\\globals.css\"\n    ]\n  }\n}"

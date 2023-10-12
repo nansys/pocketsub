@@ -1,4 +1,12 @@
 {
-  "cssImports": {},
-  "cssModules": {}
+  "cssImports": {
+    "C:\\Users\\Nanosoft\\Desktop\\NextApp\\app\\layout.tsx": [
+      "C:\\Users\\Nanosoft\\Desktop\\NextApp\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\Nanosoft\\Desktop\\NextApp\\app\\page": [
+      "C:\\Users\\Nanosoft\\Desktop\\NextApp\\app\\globals.css"
+    ]
+  }
 }
