@@ -18,6 +18,17 @@ function getRandomDateInCurrentMonth() {
 
 }
 
+function nextPaymentMonthGenerator(billingPeriod: SUBSCRIPTION_BILLING_PERIOD) {
+  switch (billingPeriod) {
+    case SUBSCRIPTION_BILLING_PERIOD.QUERTERLY:
+      return 3
+    case SUBSCRIPTION_BILLING_PERIOD.YEARLY:
+      return 12
+    default:
+      return 1
+  }
+}
+
 async function main() {
 
   const user = await prisma.user.upsert({
